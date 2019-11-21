@@ -1,0 +1,7 @@
+C:\Users\AEliminalia\source\repos\Binario\Binario\bin\Debug\Binario.exe.config
+C:\Users\AEliminalia\source\repos\Binario\Binario\bin\Debug\Binario.exe
+C:\Users\AEliminalia\source\repos\Binario\Binario\bin\Debug\Binario.pdb
+C:\Users\AEliminalia\source\repos\Binario\Binario\obj\Debug\Binario.csprojAssemblyReference.cache
+C:\Users\AEliminalia\source\repos\Binario\Binario\obj\Debug\Binario.csproj.CoreCompileInputs.cache
+C:\Users\AEliminalia\source\repos\Binario\Binario\obj\Debug\Binario.exe
+C:\Users\AEliminalia\source\repos\Binario\Binario\obj\Debug\Binario.pdb
